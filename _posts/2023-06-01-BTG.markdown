@@ -4,6 +4,7 @@ image: /images/23cvpr_BTG.png
 categories: paper
 authors: "Youngwook Kim, <strong>Jae Myung Kim</strong>, Jieun Jeong, Cordelia Schmid, Zeynep Akata, Jungwoo Lee"
 venue: CVPR 2023
+keywords: [Weak Alignment, Explainability]
 arxiv: https://arxiv.org/pdf/2304.01804
 code: https://github.com/youngwk/BridgeGapExplanationPAMC
 ---
