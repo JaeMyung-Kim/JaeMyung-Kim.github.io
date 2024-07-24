@@ -1,0 +1,10 @@
+---
+title:  "Large Loss Matters in Weakly Supervised Multi-Label Classification"
+image: /images/22cvpr_large_loss.png
+categories: paper
+authors: "Youngwook Kim*, <strong>Jae Myung Kim</strong>*, Zeynep Akata, Jungwoo Lee"
+venue: CVPR 2022
+arxiv: https://arxiv.org/pdf/2206.03740
+code: https://github.com/snucml/LargeLossMatters
+---
+We frame the partially labeled setting as a noisy multi-label classification task, and observe the memorization effect. Based on this finding, we propose to reject or correct high-loss samples, preventing memorization of noise.
