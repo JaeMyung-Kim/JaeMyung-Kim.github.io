@@ -4,6 +4,7 @@ image: /images/21iccv_calm.png
 categories: paper
 authors: "<strong>Jae Myung Kim</strong>*, Junsuk Choe*, Zeynep Akata, Seong Joon Oh"
 venue: ICCV 2021
+keywords: [Explainability]
 arxiv: https://arxiv.org/pdf/2106.07861
 code: https://github.com/naver-ai/calm
 ---
