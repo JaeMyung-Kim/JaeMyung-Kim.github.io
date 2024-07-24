@@ -1,6 +1,6 @@
 ---
 title:  "Keep CALM and Improve Visual Feature Attribution"
-image: /images/21iccv_calm.jpg
+image: /images/21iccv_calm.png
 categories: paper
 authors: "<strong>Jae Myung Kim</strong>*, Junsuk Choe*, Zeynep Akata, Seong Joon Oh"
 venue: ICCV 2021
