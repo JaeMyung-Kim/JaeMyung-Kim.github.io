@@ -2,7 +2,7 @@
 title:  "Large Loss Matters in Weakly Supervised Multi-Label Classification"
 image: /images/22cvpr_large_loss.png
 categories: paper
-authors: "Youngwook Kim*, <strong>Jae Myung Kim</strong>*, Zeynep Akata, Jungwoo Lee"
+authors: "Youngwook Kim*, <strong>Jae Myung Kim*</strong>, Zeynep Akata, Jungwoo Lee"
 venue: CVPR 2022
 keywords: [Weak Alignment]
 arxiv: https://arxiv.org/pdf/2206.03740
