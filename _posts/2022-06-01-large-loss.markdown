@@ -1,6 +1,6 @@
 ---
 title:  "Large Loss Matters in Weakly Supervised Multi-Label Classification"
-image: /images/22cvpr-large-loss.png
+image: /images/22cvpr_large_loss.png
 categories: paper
 authors: "Youngwook Kim*, <strong>Jae Myung Kim</strong>*, Zeynep Akata, Jungwoo Lee"
 venue: CVPR 2022
