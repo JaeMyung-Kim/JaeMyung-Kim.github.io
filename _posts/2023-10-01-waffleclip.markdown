@@ -8,4 +8,4 @@ keywords: [Zero-shot Learning]
 arxiv: https://arxiv.org/pdf/2306.07282
 code: https://github.com/ExplainableML/WaffleCLIP
 ---
-We achieve state-of-the-art zero-shot CLIP performance without access to external models by using random characters and random word descriptors.
+We achieve comparable zero-shot CLIP performance without access to external models by using random characters and random word descriptors.
