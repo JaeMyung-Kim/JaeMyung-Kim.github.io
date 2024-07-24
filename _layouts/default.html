@@ -40,11 +40,11 @@
               <p>
                 I am broadly interested in efficient data-centric approaches. At the moment I'm working on the following questions:
                 <ol>
-                  <li> <b>Synthetic data as training data</b>: exploring how generative models can be leveraged as a robust data source for pertaining or downstream tasks. </li>
-                  <li> <b>Weak alignment</b>: Multi-modal data are normally weakly aligned. How can we have better representations with weak data alignment? </li>
-                  <li> <b>Zero-shot and few-shot learning</b>: How can we better leverage foundation models with the minimum data? </li>
+                  <li> <span style="background-color:#ff9aa2">Synthetic data as training data</span>: exploring how generative models can be leveraged as a robust data source for pertaining or downstream tasks. </li>
+                  <li> <span style="background-color:#ffdac1">Weak alignment</span>: Multi-modal data are normally weakly aligned. How can we have better representations with weak data alignment? </li>
+                  <li> <span style="background-color:#ffffce">Zero-shot and few-shot learning</span>: How can we better leverage foundation models with the minimum data? </li>
                 </ol>
-                In addition to these questions, I have previously worked on building reliable models: topics such as XAI, bias, and uncertainty.
+                In addition to these questions, I have previously worked on building <span style="background-color:#b5ead7">reliable models</span>: topics such as XAI, bias, and uncertainty.
               </p>
               </p>
               <p style="text-align:center">
@@ -64,12 +64,6 @@
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Selected papers</h2>
-              <p>
-                <span style="background-color:#ff9aa2">Synthetic Training Data</span> 
-                <span style="background-color:#ffdac1">Weak Alignment</span> 
-                <span style="background-color:#ffffce">Low-shot Learning</span> 
-                <span style="background-color:#b5ead7">Explainable AI</span> 
-              </p>
             </td>
           </tr>
         </table>
@@ -85,8 +79,20 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               
               {% for keyword in post.keywords %}
-              {{keyword}}///
+                {% if keyword == 'Synthetic Training Data' %}
+                <span style="background-color:#ff9aa2">Synthetic Training Data</span> 
+                {% endif %}
+                {% if keyword == 'Weak Alignment' %}
+                <span style="background-color:#ffdac1">Weak Alignment</span>  
+                {% endif %}
+                {% if keyword == 'Low-shot Learning' %}
+                <span style="background-color:#ffffce">Low-shot Learning</span> 
+                {% endif %}
+                {% if keyword == 'Explainability' %}
+                <span style="background-color:#b5ead7">Explainability</span> 
+                {% endif %}
               {% endfor %}
+              <br>
               
               <h3>{{post.title}}</h3>
               <br>
