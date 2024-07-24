@@ -1,0 +1,10 @@
+---
+title:  "Keep CALM and Improve Visual Feature Attribution"
+image: /images/21iccv_calm.jpg
+categories: paper
+authors: "<strong>Jae Myung Kim</strong>*, Junsuk Choe*, Zeynep Akata, Seong Joon Oh"
+venue: ICCV 2021
+arxiv: https://arxiv.org/pdf/2106.07861
+code: https://github.com/naver-ai/calm
+---
+Class Activation Mapping (CAM) is widely used for visual feature attribution, but its reliance on ad-hoc calibration steps outside the training graph limits its interpretability. We address this issue by introducing a latent variable for cue location, an explanation by itself, in the training graph.
