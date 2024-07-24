@@ -1,0 +1,12 @@
+---
+title:  "Bridging the Gap between Model Explanations in Partially Annotated Multi-label Classification"
+image: /images/23cvpr_BTG.png
+categories: paper
+authors: "Youngwook Kim, <strong>Jae Myung Kim</strong>, Jieun Jeong, Cordelia Schmid, Zeynep Akata, Jungwoo Lee"
+venue: CVPR 2023
+arxiv: https://arxiv.org/pdf/2304.01804
+code: https://github.com/youngwk/BridgeGapExplanationPAMC
+---
+We observe that the explanation of two models, trained with full and partial labels each, highlights similar regions but with different scaling. We then propose to boost the attribution scores of the model trained with partial labels to make its explanation resemble that of the model trained with full labels.
+
+
