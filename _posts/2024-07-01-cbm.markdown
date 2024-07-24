@@ -4,6 +4,7 @@ image: /images/24eccv_cbm.png
 categories: paper
 authors: "Nishad Singhi, <strong>Jae Myung Kim</strong>, Karsten Roth, Zeynep Akata"
 venue: ECCV 2024
+keywords: [Explainability]
 arxiv: https://arxiv.org/pdf/2405.01531
 code: https://github.com/ExplainableML/concept_realignment
 ---
