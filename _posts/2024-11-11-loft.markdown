@@ -6,6 +6,6 @@ authors: "<strong>Jae Myung Kim</strong>, Stephan Alaniz, Cordelia Schmid, Zeyne
 venue: Submitted
 keywords: [Synthetic Training Data, Few-shot Learning]
 arxiv: TBD
-code:TBD
+code: TBD
 ---
 We generate a synthetic dataset guided by few-shot real samples by fusing LoRA weights corresponding to each real sample. We achieve to generate datasets with high fidelity and sufficient diversity which contribute to performance improvement.
