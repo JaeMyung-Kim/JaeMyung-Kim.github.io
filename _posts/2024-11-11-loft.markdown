@@ -1,0 +1,11 @@
+---
+title:  "LoFT: LoRA-Fused Training Dataset Generation with Few-shot Guidance"
+image: /images/25cvpr_loft.png
+categories: paper
+authors: "<strong>Jae Myung Kim</strong>, Stephan Alaniz, Cordelia Schmid, Zeynep Akata"
+venue: Submitted
+keywords: [Synthetic Training Data, Few-shot Learning]
+arxiv: TBD
+code:TBD
+---
+We generate a synthetic dataset guided by few-shot real samples by fusing LoRA weights corresponding to each real sample. We achieve to generate datasets with high fidelity and sufficient diversity which contribute to performance improvement.
