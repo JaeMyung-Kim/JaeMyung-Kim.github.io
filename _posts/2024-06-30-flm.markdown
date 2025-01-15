@@ -1,0 +1,10 @@
+---
+title:  "Feasibility with Language Models for Open-World Compositional Zero-Shot Learning"
+image: /images/24eccvw_flm.png
+categories: paper
+authors: "<strong>Jae Myung Kim</strong>, Stephan Alaniz, Cordelia Schmid, Zeynep Akata"
+venue: ECCV workshop 2024
+keywords: [Zero-shot Learning]
+arxiv: TBD
+---
+We leverage LLMs to determine the feasibility of state-object combinations for open-world compositional zero-shot learning task.
