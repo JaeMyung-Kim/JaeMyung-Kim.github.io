@@ -5,7 +5,7 @@ categories: paper
 authors: "<strong>Jae Myung Kim</strong>, Stephan Alaniz, Cordelia Schmid, Zeynep Akata"
 venue: Submitted
 keywords: [Synthetic Training Data, Few-shot Learning]
-arxiv: TBD
-code: TBD
+arxiv: https://github.com/ExplainableML/LoFT/blob/master/paper/LoFT_github.pdf
+code: https://github.com/ExplainableML/LoFT
 ---
 We generate a synthetic dataset guided by few-shot real samples by fusing LoRA weights corresponding to each real sample. We achieve to generate datasets with high fidelity and sufficient diversity which contribute to performance improvement.
