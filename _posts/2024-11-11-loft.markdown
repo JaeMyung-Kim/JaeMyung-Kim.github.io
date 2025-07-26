@@ -3,7 +3,7 @@ title:  "LoFT: LoRA-Fused Training Dataset Generation with Few-shot Guidance"
 image: /images/25cvpr_loft.png
 categories: paper
 authors: "<strong>Jae Myung Kim</strong>, Stephan Alaniz, Cordelia Schmid, Zeynep Akata"
-venue: Submitted
+venue: BMVC 2025
 keywords: [Synthetic Training Data, Few-shot Learning]
 arxiv: https://github.com/ExplainableML/LoFT/blob/master/paper/LoFT_github.pdf
 code: https://github.com/ExplainableML/LoFT
